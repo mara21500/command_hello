@@ -1,8 +1,12 @@
 //For clmmand line git tutorial
-//Loacal repository modification
+//First Loacal repository modification
+//second github modification
 print("hello world")
 print("Tell your world")
 print("tell his world")
 print("tell her world")
+<<<<<<< HEAD
 
 
+=======
+>>>>>>> origin/master
